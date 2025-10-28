@@ -1321,4 +1321,4 @@ xml
 
 提供可扩展的代码基础，便于在此基础上进行功能扩展
 
-实验源码地址:http://github.com/L-part05/test02
+实验源码地址:http://github.com/L-part05/test2
