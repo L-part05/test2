@@ -20,6 +20,8 @@
 
 实验环境 环境组件 版本信息 开发工具 Android Studio Narwhal 3,Gradel 8.13 目标API API 21 开发语言 Java 项目包名 com.example.test02
 
+注意:实验二的相关代码在该仓库下的lab_2文件夹中。
+
 一、项目设计思路
 
 核心目标:开发一个综合性的Android应用，展示多种UI布局技术的实现方式，同时集成基础功能模块，帮助开发者理解和掌握Android界面设计与交互开发。
